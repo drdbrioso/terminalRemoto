@@ -6,7 +6,7 @@
 - Miguel Rodrigues Fonseca (14682196)
 
 ## Detalhes
-O intuito do projeto e ser um terminal remoto que recebe e executa comandos de diversos clientes. 
+O intuito do projeto é ser um terminal remoto que recebe e executa comandos de diversos clientes. 
 
 O código foi escrito e compilado na versão _linux 6.16.8.arch3-1_ do kernel Linux.
 
